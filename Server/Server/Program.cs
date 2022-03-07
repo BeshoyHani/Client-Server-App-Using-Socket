@@ -17,6 +17,11 @@ namespace Server
 
             sock.Bind(ipEnd);
             sock.Listen(100);
+            
+            //Personal Data
+            Console.WriteLine("Beshoy Hani Badee");
+            Console.WriteLine("CS");
+            Console.WriteLine("2");
             Console.WriteLine("Listening at IP: 127.0.0.1, Port: 8000");
 
             //Getting File Data ready to be sent

@@ -1,4 +1,4 @@
-## Transfer File Between Server and Client
+## Transfer Files Between Server and Client
 A simple application on socket in C# to send files from server to client
 
 ## How To Use

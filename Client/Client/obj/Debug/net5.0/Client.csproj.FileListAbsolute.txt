@@ -1,0 +1,16 @@
+D:\Programing\Visual Studio\Network\Client\Client\bin\Debug\net5.0\Client.exe
+D:\Programing\Visual Studio\Network\Client\Client\bin\Debug\net5.0\Client.deps.json
+D:\Programing\Visual Studio\Network\Client\Client\bin\Debug\net5.0\Client.runtimeconfig.json
+D:\Programing\Visual Studio\Network\Client\Client\bin\Debug\net5.0\Client.runtimeconfig.dev.json
+D:\Programing\Visual Studio\Network\Client\Client\bin\Debug\net5.0\Client.dll
+D:\Programing\Visual Studio\Network\Client\Client\bin\Debug\net5.0\ref\Client.dll
+D:\Programing\Visual Studio\Network\Client\Client\bin\Debug\net5.0\Client.pdb
+D:\Programing\Visual Studio\Network\Client\Client\obj\Debug\net5.0\Client.csproj.AssemblyReference.cache
+D:\Programing\Visual Studio\Network\Client\Client\obj\Debug\net5.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\Visual Studio\Network\Client\Client\obj\Debug\net5.0\Client.AssemblyInfoInputs.cache
+D:\Programing\Visual Studio\Network\Client\Client\obj\Debug\net5.0\Client.AssemblyInfo.cs
+D:\Programing\Visual Studio\Network\Client\Client\obj\Debug\net5.0\Client.csproj.CoreCompileInputs.cache
+D:\Programing\Visual Studio\Network\Client\Client\obj\Debug\net5.0\Client.dll
+D:\Programing\Visual Studio\Network\Client\Client\obj\Debug\net5.0\ref\Client.dll
+D:\Programing\Visual Studio\Network\Client\Client\obj\Debug\net5.0\Client.pdb
+D:\Programing\Visual Studio\Network\Client\Client\obj\Debug\net5.0\Client.genruntimeconfig.cache
